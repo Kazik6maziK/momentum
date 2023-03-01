@@ -256,7 +256,9 @@ body {
   margin-bottom: 30px;
   background-image: url("../assets/svg/reload.svg");  
 }
-
+.test{
+  
+}
 .quote {
   min-height: 32px;
 }
