@@ -158,7 +158,7 @@ city.onchange = () => {
 document.addEventListener('DOMContentLoaded', getWeather);
 
 
-import playList from './playlist.js';
+import playList from './playList.js';
 
 let playNum = 0;
 const audioList = document.querySelector('.play-list');
